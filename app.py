@@ -8,6 +8,8 @@ import seaborn as sns
 
 # Git deneme 
 
+
+
 # Git yeni branch açma (furkan-dev) 
 
 # git conflict deneme(vs code üzerinden)
